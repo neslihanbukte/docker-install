@@ -6,8 +6,8 @@ this repository provides simple shell scripts to install **docker engine** and *
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/neslihanbukte/docker-install.git
-   cd docker-install
+git clone https://github.com/neslihanbukte/docker-install.git
+cd docker-install
    ```
 2. make the script executable and run it (replace with the correct version script):
  ```bash
