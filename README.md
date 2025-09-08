@@ -12,7 +12,7 @@ cd docker-install
 
 2. make the script executable and run it (replace with the correct version script):
  ```bash
-chmod +x install-docker-20.04.sh && ./install-docker-20.04.sh
+chmod +x install-docker-ubuntu-20.04.sh && ./install-docker-ubuntu-20.04.sh
 # or
-chmod +x install-docker-22.04.sh && ./install-docker-22.04.sh
+chmod +x install-docker-ubuntu-22.04.sh && ./install-docker-ubuntu-22.04.sh
 ```
